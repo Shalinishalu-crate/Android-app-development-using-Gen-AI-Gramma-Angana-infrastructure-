@@ -84,15 +84,6 @@ Add cloud database support
 Deploy complete working APK
 Add authentication system
 
-
-📌 Project Status
-
-🚧 Project is currently under development.
-
-🤝 Contribution
-
-Contributions, suggestions, and improvements are welcome.
-
 📧 Contact
 
 Developer: Shalini Ys
