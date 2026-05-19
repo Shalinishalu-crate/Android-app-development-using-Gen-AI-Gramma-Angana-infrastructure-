@@ -4,7 +4,7 @@
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue)
 ![GenAI](https://img.shields.io/badge/Technology-Generative%20AI-orange)
 
----
+
 
 ## 📌 Project Overview
 
@@ -12,8 +12,6 @@ This project is developed as part of an internship in **Android App Development 
 The application focuses on **Gramma Angana Infrastructure** and aims to provide smart digital solutions using Android technologies and AI integration.
 
 The project is designed to improve learning, development skills, and real-world mobile application building using modern tools and cloud technologies.
-
----
 
 ## 🚀 Technologies Used
 
@@ -26,8 +24,6 @@ The project is designed to improve learning, development skills, and real-world 
 - Generative AI
 - GitHub
 
----
-
 ## 🎯 Objectives
 
 - Develop Android applications using modern technologies
@@ -36,7 +32,7 @@ The project is designed to improve learning, development skills, and real-world 
 - Improve problem-solving and coding skills
 - Build scalable and real-time Android applications
 
----
+
 
 ## 📱 Features
 
@@ -47,8 +43,6 @@ The project is designed to improve learning, development skills, and real-world 
 - Secure data management
 - Responsive mobile design
 
----
-
 ## 🛠 Tools & Platforms
 
 - Android Studio
@@ -56,8 +50,6 @@ The project is designed to improve learning, development skills, and real-world 
 - Google Cloud Skills Boost
 - Salesforce Trailhead
 - Mindmatrix Platform
-
----
 
 ## 📚 Learning Outcomes
 
@@ -68,18 +60,13 @@ The project is designed to improve learning, development skills, and real-world 
 - Basics of Generative AI and LLMs
 - Team collaboration and Agile concepts
 
----
-
 ## 👩‍💻 Internship Details
 
 | Details | Information |
-|---------|-------------|
 | Internship Role | Android App Development Using Gen AI |
 | Organization | Mindmatrix.io |
 | Duration | 15 Weeks |
 | Technologies Learned | Kotlin, Java, SQL, Google Cloud, Gen AI |
-
----
 
 ## 📂 Project Structure
 
@@ -111,12 +98,6 @@ Contributions, suggestions, and improvements are welcome.
 Developer: Shalini Ys
 GitHub: Shalinishalu-crate
 
-u only give my project output
-# Android App Development Using Gen AI – Gramma Angana Infrastructure
-
-## 📌 Project Output
-
-The project successfully developed an Android application using Generative AI concepts and modern Android development technologies. The application provides a user-friendly interface and demonstrates the implementation of Kotlin, Java, XML layouts, and cloud-based technologies.
 
 ### ✅ Outputs Achieved
 
