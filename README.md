@@ -129,9 +129,6 @@ The project successfully developed an Android application using Generative AI co
 - Enhanced practical skills in Android app development lifecycle
 - Successfully completed internship tasks and learning activities
 
-### 📱 Final Result
-
-The project demonstrates the practical implementation of Android App Development using Gen AI for Gramma Angana Infrastructure and helps in understanding real-world mobile application development processes.
 
 
 
